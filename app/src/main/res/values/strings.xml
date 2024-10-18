@@ -10,4 +10,13 @@
     <string name="see_all">Ver mas</string>
     <string name="available_offers">En oferta</string>
     <string name="cart">Carrito</string>
+    <string name="correo_electronico">correo</string>
+    <string name="contrase_a">contraseña</string>
+    <string name="autenticar">autenticar</string>
+    <string name="registrar">registrar</string>
+    <string name="no_tienes_una_cuenta">no tienes una cuenta</string>
+    <string name="Koffe">Koffe</string>
+    <string name="nombre">nombre</string>
+    <string name="ya_posees_una_cuenta">ya posees una cuenta</string>
+    <string name="ingresar">ingresar</string>
 </resources>
