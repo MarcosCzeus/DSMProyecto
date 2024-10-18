@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Koffe</string>
+    <string name="search_anything">Busca tu cafe...</string>
+    <string name="good_morning">Buenos dias</string>
+    <string name="get_started">Bienvenido</string>
+    <string name="find_the_best_coffee_nfor_you">Busca el mejor cafe para ti</string>
+    <string name="started">Iniciar</string>
+    <string name="grab_your_first_coffee_in_this_morning">Inicia tus mañanas con un rico cafe!!</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">Ver mas</string>
+    <string name="available_offers">En oferta</string>
+    <string name="cart">Carrito</string>
+</resources>
