@@ -19,3 +19,8 @@ Figma: [https://www.figma.com/proto/YBNVNIbura9zzFxx2vGT8J/Untitled?type=design&
 Licencia Creative Commons: Este trabajo tiene by App Para DSM © 2024 Grupo1está bajo Creative Commons Atribution-NonCommercial-ShareAlike 4.0 International licencia CC BY-NC-SA 4.0
 
 Trello: https://trello.com/b/yVo3wkFQ/dsm​ 
+
+Link de Manuales
+
+Manual De Usuario:
+https://www.canva.com/design/DAGT9xg70oU/twlIyg2ZMlwfh9sONfNUqQ/edit?utm_content=DAGT9xg70oU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
