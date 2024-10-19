@@ -24,3 +24,6 @@ Link de Manuales
 
 Manual De Usuario:
 https://www.canva.com/design/DAGT9xg70oU/twlIyg2ZMlwfh9sONfNUqQ/edit?utm_content=DAGT9xg70oU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Manual Tecnico:
+https://www.canva.com/design/DAGT-Kz5jLU/NaaU1WhURgCF4q83jK7Ytg/edit?utm_content=DAGT-Kz5jLU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
